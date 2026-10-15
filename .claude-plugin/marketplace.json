@@ -1,0 +1,13 @@
+{
+  "name": "curva-ai-knowledge",
+  "owner": { "name": "CURVA" },
+  "description": "AI Knowledge de CURVA: cómo se enseña IA y estrategia a las empresas (benchmark de 55 organizaciones, marcos, fórmulas de prompt y lecturas), compactado para Claude Code.",
+  "plugins": [
+    {
+      "name": "curva-ai-knowledge",
+      "source": "./plugins/curva-ai-knowledge",
+      "description": "Base compacta de metodologías para enseñar IA a empresas: benchmark de 55 organizaciones, patrones, huecos, modelo CURVA, fórmulas de prompt, marcos (3A, madurez, roles) y 17 lecturas.",
+      "version": "1.0.0"
+    }
+  ]
+}

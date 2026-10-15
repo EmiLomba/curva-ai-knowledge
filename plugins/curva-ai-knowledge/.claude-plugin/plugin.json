@@ -1,0 +1,6 @@
+{
+  "name": "curva-ai-knowledge",
+  "description": "Base compacta de metodologías para enseñar IA y estrategia a empresas (benchmark de 55 organizaciones, marcos, fórmulas de prompt y lecturas). Para diseñar programas de formación, clases y propuestas de Curva Academy.",
+  "version": "1.0.0",
+  "author": { "name": "CURVA" }
+}
