@@ -6,7 +6,7 @@ Incluye: benchmark de 55 organizaciones (consultoras, escuelas, México/LatAm, b
 
 ## Instalar (en la terminal de Claude Code)
 ```
-/plugin marketplace add <USUARIO>/curva-ai-knowledge
+/plugin marketplace add EmiLomba/curva-ai-knowledge
 /plugin install curva-ai-knowledge@curva-ai-knowledge
 ```
 Luego reinicia Claude Code y pregunta, por ejemplo: «¿cómo enseñan IA las escuelas de negocio?» o «dame una fórmula de prompt para un reporte».
